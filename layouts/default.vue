@@ -1,12 +1,12 @@
 <template>
   <div>
     <!-- Page Loader -->
-    <div class="page-loader-wrapper">
+    <!--<div class="page-loader-wrapper">
         <div class="loader">
             <div class="m-t-30"><i class="fa fa-cube font-25"></i></div>
             <p>Please wait...</p>
         </div>
-    </div>
+    </div>-->
 
     <!-- Overlay For Sidebars -->
     <div class="overlay"></div>
