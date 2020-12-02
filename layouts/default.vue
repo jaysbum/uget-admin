@@ -53,7 +53,7 @@
                                     <li>
                                         <a href="javascript:void(0);">
                                             <div class="media">
-                                                <img class="media-object" src="../assets/images/xs/avatar5.jpg" alt="">
+                                                <img class="media-object" src="/assets/images/xs/avatar5.jpg" alt="">
                                                 <div class="media-body">
                                                     <span class="name">Louis Henry <small class="float-right">38min ago</small></span>
                                                     <span class="message">Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris.</span>
@@ -86,7 +86,7 @@
                                     <li>
                                         <a href="javascript:void(0);">
                                             <div class="media mb-0">
-                                                <img class="media-object" src="../assets/images/xs/avatar2.jpg" alt="">
+                                                <img class="media-object" src="/assets/images/xs/avatar2.jpg" alt="">
                                                 <div class="media-body">
                                                     <span class="name">Debra Stewart <small class="float-right">2hr ago</small></span>
                                                     <span class="message">Nullam vel sem. Nullam vel sem.</span>
@@ -159,7 +159,7 @@
                             </div>
                         </li>
                         <li class="right">
-                            <img src="../assets/images/xs/avatar1.jpg" class="rounded" alt="">
+                            <img src="/assets/images/xs/avatar1.jpg" class="rounded" alt="">
                             <div class="chat-info">
                                 <span class="message">Hi, Alizee<br> It is almost completed. I will send you an email later today.</span>
                             </div>
@@ -171,7 +171,7 @@
                             </div>
                         </li>
                         <li class="right">
-                            <img src="../assets/images/xs/avatar1.jpg" class="rounded" alt="">
+                            <img src="/assets/images/xs/avatar1.jpg" class="rounded" alt="">
                             <div class="chat-info">
                                 <span class="message">Sure we'will have a blast today.</span>
                             </div>
@@ -252,7 +252,7 @@
                         <nav class="sidebar-nav sidebar-scroll">
                             <div class="user-detail">
                                 <div class="text-center mb-3">
-                                    <img class="img-thumbnail rounded-circle" src="../assets/images/sm/avatar1.jpg" alt="">
+                                    <img class="img-thumbnail rounded-circle" src="/assets/images/sm/avatar1.jpg" alt="">
                                     <h6 class="mt-3 mb-0">Michelle Green</h6>
                                     <div class="text-center text-muted">Manager</div>
                                     <hr>
