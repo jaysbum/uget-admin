@@ -14,24 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: '/assets/vendor/bootstrap/css/bootstrap.min.css'  },
-      { rel: 'stylesheet', href: '/assets/vendor/font-awesome/css/font-awesome.min.css'  },
-      { rel: 'stylesheet', href: '/assets/vendor/animate-css/vivify.min.css'  },
-      { rel: 'stylesheet', href: '/assets/vendor/vendor/c3/c3.min.css'  },
-      { rel: 'stylesheet', href: '/assets/vendor/chartist/css/chartist.min.css'  },
-      { rel: 'stylesheet', href: '/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css'  },
-      { rel: 'stylesheet', href: '/assets/css/site.min.css'  }
-    ],
-    script : [
-      { src: '/assets/vendor/jquery/jquery-3.3.1.min.js' },
-      { src: '/assets/vendor/bootstrap/js/bootstrap.bundle.min.js' , body : true },
-      { src: '/assets/bundles/vendorscripts.bundle.js' , body : true },
-      { src: '/assets/bundles/c3.bundle.js' , body : true },
-      { src: '/assets/bundles/flotscripts.bundle.js' , body : true },
-      { src: '/assets/bundles/knob.bundle.js' , body : true },
-      { src: '/assets/js/common.js' , body : true },
-      { src: '/assets/js/index.js' , body : true }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
 
